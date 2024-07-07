@@ -1,0 +1,36 @@
+{
+  "Mermaid.js Flowchart": {
+    "prefix": "mermaid-flowchart",
+    "body": [
+      "```mermaid",
+      "---",
+      "config:",
+      "    theme: base",
+      "    themeVariables:",
+      "        fontSize: 1rem;",
+      "        fontFamily: \"Helvetica Neue, Calibri, Hiragino Kaku Gothic ProN, Yu Gothic\"",
+      "        background: \"#ffffff\"",
+      "        primaryColor: \"#82a0aa\"",
+      "        primaryTextColor: \"#ffffff\"",
+      "        secondaryColor: \"#3c5d69\"",
+      "        secondaryTextColor: \"#ffffff\"",
+      "        tertiaryColor: \"#b4c6cc\"",
+      "        tertiaryTextColor: \"#000000\"",
+      "        noteBkgColor: \"#b4c6cc\"",
+      "        noteTextColor: \"#000000\"",
+      "        lineColor: \"#2b72b3\"",
+      "        textColor: \"#000000\"",
+      "    flowchart:",
+      "        padding: 10",
+      "        diagramPadding: 10 ",
+      "        nodeSpacing: 25",
+      "        rankSpacing: 25",
+      "        curve: basis",
+      "---",
+      "flowchart TD",
+      "",
+      "```"
+    ],
+    "description": "Mermaid.js Flowchart"
+  }
+}
